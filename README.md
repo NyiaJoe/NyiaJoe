@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @NyiaJoe
-- 👀 I’m interested in ... user experience design, data design
-- 🌱 I’m currently learning ... Data learning 
+- 👀 I’m interested in ... data analysis and user experience design
+- 🌱 I’m currently learning ... Data Analysis in the NG30 days of learning 
 - 💞️ I’m looking to collaborate on ... designing experiences that helps people make sound decisions quickly
-- 📫 How to reach me ... josephnyiabari@gmail.com
+- I'd love to get help in breaking down the data analysis concepts
+- 📫 How to reach me ... https://twitter.com/NyiabariJ
 
 <!---
 NyiaJoe/NyiaJoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
