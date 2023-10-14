@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @NyiaJoe
-- 👀 I’m interested in ... data analysis and user experience design
-- 🌱 I’m currently learning ... Data Analysis in the NG30 days of learning 
+- 👀 I’m interested in ... marketing design and content marketing 
+- 🌱 I’m currently learning ... content marketing 
 - 💞️ I’m looking to collaborate on ... designing experiences that helps people make sound decisions quickly
-- I'd love to get help in breaking down the data analysis concepts
 - 📫 How to reach me ... https://twitter.com/NyiabariJ
 
 <!---
